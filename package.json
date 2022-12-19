@@ -1,0 +1,15 @@
+{
+  "name": "rpc_ext",
+  "version": "1.0",
+  "description": "flexim)",
+  "main": "execute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rlxk<3",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.2.0"
+  }
+}
