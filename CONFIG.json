@@ -1,0 +1,12 @@
+{
+  "rpc": {
+    "clientId": "",
+    "details": "",
+    "state": "",
+    "startTimestamp": false,
+    "largeImageKey": "",
+    "largeImageText": "",
+    "smallImageKey": "",
+    "smallImageText": ""
+  }
+}

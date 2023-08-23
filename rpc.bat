@@ -1,6 +1,10 @@
-MODE 37,2
-title rpc
+MODE 37,10
+title Discord RPC
 
-cd /d "D:\code\discord\rpc"
-node execute.js
-@echo rpc activated
+cls
+@echo off
+
+cd /d %~dp0
+node index.js
+
+cmd/k
